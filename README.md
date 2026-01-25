@@ -6,7 +6,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0-green?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
 ![Swagger](https://img.shields.io/badge/Swagger-2.5-success?style=for-the-badge&logo=swagger)
-![GitHub stars](https://img.shields.io/github/stars/username/agilegestion?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/nouhaila0204/agilegestion?style=for-the-badge)
 
 **Une solution complète de gestion de projets Agile avec Scrum, conçue pour les équipes de développement modernes**
 
