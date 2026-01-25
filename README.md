@@ -8,17 +8,15 @@
 ![Swagger](https://img.shields.io/badge/Swagger-2.5-success?style=for-the-badge&logo=swagger)
 ![GitHub stars](https://img.shields.io/github/stars/nouhaila0204/agilegestion?style=for-the-badge)
 
-**Une solution complète de gestion de projets Agile avec Scrum, conçue pour les équipes de développement modernes**
+**Une solution de gestion de projets Agile avec Scrum, conçue pour les équipes de développement modernes**
 
-[📖 Documentation](#-documentation) • [✨ Fonctionnalités](#-fonctionnalités) • [🚀 Démarrage rapide](#-démarrage-rapide) • [📊 API](#-api-documentation) • [🤝 Contribution](#-contribution)
-
+[📖 Documentation](#-documentation) • [✨ Fonctionnalités](#-fonctionnalités) • [🚀 Démarrage rapide](#-démarrage-rapide) 
 </div>
 
 ## 📋 Table des matières
 - [✨ Fonctionnalités principales](#-fonctionnalités-principales)
 - [🏗️ Architecture](#️-architecture)
 - [🚀 Démarrage rapide](#-démarrage-rapide)
-- [📊 API Documentation](#-api-documentation)
 - [🛠️ Technologies utilisées](#️-technologies-utilisées)
 - [📁 Structure du projet](#-structure-du-projet)
 
